@@ -420,7 +420,6 @@ p {
   }
 
   .grid-container-3 {
-    border: 1px solid black;
     display: flex;
     width: 100%;
     justify-content: space-around;
